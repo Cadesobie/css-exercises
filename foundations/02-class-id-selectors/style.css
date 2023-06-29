@@ -1,4 +1,18 @@
-pink {
-    background-color: lightcoral;
-    
+.pink {
+    background-color: rgba(237, 157, 157, 0.825);
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#blue {
+    font-size: 36px;
+    color: blue;
+}
+
+#green {
+    font-weight: bold;
+    background-color: rgba(112, 231, 76, 0.744);
 }
